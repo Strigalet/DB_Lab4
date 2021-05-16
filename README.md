@@ -1,5 +1,6 @@
 # Kasich Bogdan KM-83 Lab work 4
 Variant - 2
+
 Instructions:
 
 1. Install pymongo/MongoDBCompass
